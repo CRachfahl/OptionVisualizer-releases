@@ -14,7 +14,11 @@ Neueste Version unter **[Releases](../../releases)**:
 | Plattform | Datei |
 |---|---|
 | **Windows** | `OptionVisualizerSetup-<version>.exe` (Installer) |
-| **macOS** (Apple Silicon) | `OptionVisualizer-<version>-macOS-arm64.dmg` (App) · `.zip` (portabel) |
+| **macOS** (Apple Silicon) | `OptionVisualizer-<version>-macOS-arm64.dmg` (App) |
+
+> Die von GitHub automatisch erzeugten „Source code"-Archive an jedem Release
+> enthalten nur dieses README + die LICENSE — nicht den Quellcode der App
+> (der ist privat).
 
 ## Erste Schritte
 
