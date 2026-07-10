@@ -13,7 +13,7 @@ Neueste Version unter **[Releases](../../releases)**:
 
 | Plattform | Datei |
 |---|---|
-| **Windows** | `OptionVisualizerSetup-<version>.exe` (Installer) |
+| **Windows** (x64) | `OptionVisualizerSetup-<version>-Windows-x64.exe` (Installer) |
 | **macOS** (Apple Silicon) | `OptionVisualizer-<version>-macOS-arm64.dmg` (App) |
 
 > Die von GitHub automatisch erzeugten „Source code"-Archive an jedem Release
