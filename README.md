@@ -41,10 +41,27 @@ Orders werden **nie automatisch** abgeschickt: IBKR-Orders landen zur
 manuellen Bestätigung in der TWS („Stage in TWS"), erst dein Klick auf
 *Transmit* dort sendet sie.
 
-## Haftungsausschluss
+## ⚠️ Wichtiger Risikohinweis
 
-Private Software, Nutzung **auf eigene Gefahr**. Dies ist **keine
-Anlageberatung**; keine Gewähr für Richtigkeit von Kursen, Kennzahlen oder
-Steuerschätzungen. Handel mit Optionen und Futures birgt erhebliche Risiken.
+OptionVisualizer ist private Software für den Eigengebrauch. Die Nutzung
+erfolgt **ausschließlich auf eigene Gefahr**.
+
+**Diese Software kann echte Wertpapier-Orders auslösen.** Bei aktivierter
+Handelserlaubnis werden Orders an deinen Broker übermittelt — bei
+**Tastytrade werden sie nach Bestätigung sofort ausgeführt**, bei Interactive
+Brokers erst nach deinem manuellen „Transmit" in der TWS. Softwarefehler,
+falsche oder verzögerte Marktdaten, Fehlbedienung oder fehlerhafte Orders
+können zu **realen finanziellen Verlusten** führen. Der Handel mit Optionen
+und Futures birgt erhebliche Risiken — bis zum Totalverlust, bei ungedeckten
+Positionen auch darüber hinaus.
+
+Alle angezeigten Kurse, Kennzahlen, Analysen und Steuerschätzungen dienen nur
+der Information, können falsch, unvollständig oder veraltet sein und sind
+**keine Anlage-, Rechts- oder Steuerberatung**.
+
+**Der Autor übernimmt keinerlei Haftung** für Schäden oder Verluste aus der
+Nutzung dieser Software, soweit gesetzlich zulässig. Prüfe jede Order vor dem
+Absenden selbst. Wenn du diese Bedingungen nicht akzeptierst, nutze die
+Software nicht.
 
 © 2026 Carsten Rachfahl — alle Rechte vorbehalten (siehe [LICENSE](LICENSE)).
