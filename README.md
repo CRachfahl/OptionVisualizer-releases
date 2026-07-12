@@ -35,12 +35,6 @@ Neueste Version unter **[Releases](../../releases)**:
    (Broker-Ports, API-Keys, Steuersätze) stellst du in der App unter
    **Einstellungen** ein.
 
-## Sicherheit der Orders
-
-Orders werden **nie automatisch** abgeschickt: IBKR-Orders landen zur
-manuellen Bestätigung in der TWS („Stage in TWS"), erst dein Klick auf
-*Transmit* dort sendet sie.
-
 ## ⚠️ Wichtiger Risikohinweis
 
 OptionVisualizer ist private Software für den Eigengebrauch. Die Nutzung
