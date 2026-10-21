@@ -1,5 +1,10 @@
 # OptionVisualizer — Downloads
 
+> **Die App heißt jetzt OptionCockpit.** Neue Downloads gibt es unter
+> [OptionCockpit-releases](https://github.com/CRachfahl/OptionCockpit-releases).
+> Dieses Repository bleibt bestehen: Installationen von vor der Umbenennung
+> holen ihre Updates weiter von hier.
+
 Options-Strategie-Cockpit mit Live-Anbindung an Interactive Brokers (TWS/IB
 Gateway) und Tastytrade: Multi-Leg-Payoff, Strategie-Erkennung, Chain-Analyse,
 Trading-Journal. Läuft **komplett lokal** auf deinem Rechner (Single-User).
